@@ -1,9 +1,10 @@
 package web.actions
 
 import support.context.Context
-import web.pages.kayak.MainPage
+import web.pages.google.MainPage
+import kotlin.contracts.contract
 
-class GoogleFlightsSearchActions(context: Context, private val data: Pair<String, String>) {
+class GoogleFlightsSearchActions(val context: Context, private val data: Pair<String, String>) {
     private val mainPage = MainPage(context)
     fun openMainPage(): GoogleFlightsSearchActions {
 
@@ -18,11 +19,13 @@ class GoogleFlightsSearchActions(context: Context, private val data: Pair<String
 
     fun searchRoute(): GoogleFlightsSearchActions {
         mainPage
-            .enterOrigin(data.first)
-            .enterDestination(data.second)
-            .commitSearch()
+            .commitSearch(data.first, data.second)
 
         return this
+    }
+
+    fun complete() {
+        context.driver.quit()
     }
 
 

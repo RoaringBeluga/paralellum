@@ -1,4 +1,4 @@
-package web.pages.kayak
+package web.pages
 
 import org.openqa.selenium.By
 import org.openqa.selenium.WebDriverException

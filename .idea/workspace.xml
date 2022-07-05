@@ -4,23 +4,103 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea8cb509-11fb-41e2-8cd3-b0b1417f9700" name="Changes" comment="" />
+    <list default="true" id="ea8cb509-11fb-41e2-8cd3-b0b1417f9700" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/Runner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/Runner.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/AlternativesFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/AlternativesFlow.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/KayakFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/KayakFlow.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/WebFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/WebFlow.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/DataProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/DataProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/GoogleFlightsFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/GoogleFlightsFlow.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/MockDataProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/nowherelands/flows/data/MockDataProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/support/context/Context.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/support/context/Context.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/support/context/ContextGenerator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/support/context/ContextGenerator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/web/actions/GoogleFlightsSearchActions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/web/actions/GoogleFlightsSearchActions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/web/actions/KayakSearchActions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/web/actions/KayakSearchActions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/web/pages/WebPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/web/pages/WebPage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/web/pages/google/MainPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/web/pages/google/MainPage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/web/pages/kayak/MainPage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/web/pages/kayak/MainPage.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tlzfg29i" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2BSpk6auAJVcB3Z2LH5L964OmWK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.externalDependencies",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="web.pages" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="net.nowherelands.flows.data" />
+      <recent name="web.actions" />
+      <recent name="web.pages.google" />
+      <recent name="net.nowherelands.flows" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.nowherelands.RunnerKt" />
+      <module name="Paralellum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.RunnerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,5 +111,41 @@
       <updated>1656909484406</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/support/context/Context.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="paralellum" type="b2602c69:ProjectViewProjectNode" />
+        <item name="paralellum" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="paralellum" type="b2602c69:ProjectViewProjectNode" />
+        <item name="paralellum" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>

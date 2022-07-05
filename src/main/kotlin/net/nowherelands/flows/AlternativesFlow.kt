@@ -10,7 +10,7 @@ class AlternativesFlow: WebFlow {
     override fun run() {
         KayakSearchActions(context, data)
             .openMainPage()
-            .searchRoute()
+            //.searchAlternatives()
         TimeUnit.SECONDS.sleep(10)
     }
 
